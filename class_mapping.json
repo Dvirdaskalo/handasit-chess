@@ -1,0 +1,16 @@
+{
+  "classes": [
+    "empty",
+    "wb",
+    "wn",
+    "wp",
+    "wr"
+  ],
+  "class_to_idx": {
+    "empty": 0,
+    "wb": 1,
+    "wn": 2,
+    "wp": 3,
+    "wr": 4
+  }
+}
